@@ -1,0 +1,16 @@
+{
+  "name": "angular-2-intro",
+  "version": "0.5.0",
+  "description": "Intro to Angular 2 talk for SoCal Angular meetup.",
+  "main": "index.html",
+  "author": "Justin Vencel <failpunk@gmail.com>",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+    "reveal.js": "~3.*"
+  }
+}
